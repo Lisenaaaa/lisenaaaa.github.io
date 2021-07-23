@@ -1,2 +1,5 @@
-# zordlan.github.io
-zordlan website
+#zordlan
+
+bot: https://github.com/zordlan/skyclientbot
+
+cool discord: discord.gg/skyclient
